@@ -1,0 +1,35 @@
+@import url("reticula.css");
+
+header {
+    width: 100%;
+    color: #FFF;
+    background-color: #000;
+    box-sizing: border-box;
+    margin: 0;
+    padding-bottom: 0px;
+    border-bottom: 1px solid #EDE225;
+    font-family:  'Open sans', Impact, sans-serif;
+}
+
+ul,li a{
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+    color: #FFF;
+}
+
+.logo_solex {
+    width: 14em;
+    height: 3.5em;
+    float: left;
+}
+
+.logo_tableau {
+    width: 4em;
+    height: 4em;
+}
+
+.logo_twitter{
+    width: 2.5em;
+    height: 2em;
+}
