@@ -102,13 +102,6 @@ ul,li a{
     height: 250px;
 }
 
-.tablau_public
-{
- position: absolute; /* podría ser relative */
- left: 0;
- right: 0;
- border-radius: 5px;
- }
 
 .clientes_solex_chile_cuadrado {
     width: 3.5em;
