@@ -33,3 +33,31 @@ ul,li a{
     width: 2.5em;
     height: 2em;
 }
+
+.display_block
+{
+    display: block;
+    float: right;
+    width: 700px;
+    height: 600px
+    padding-bottom: 150px;
+}
+
+.excel_table {
+    border-radius: 10px;
+    padding-bottom: 20px;
+    width: 700px;
+    height: 300px
+}
+
+.inicio_grafico_tableau{
+    width: 554px;
+    height: 220px;
+}
+
+.tablau_public
+{
+ position: absolute; /* podría ser relative */
+ left: 120px;
+ border-radius: 5px;
+ }
